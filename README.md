@@ -90,5 +90,5 @@ Apply symbology to generate maps
 
 Contact
 Project Lead: Charles Iyamuremye
-Email: your.email@example.com
+Email: charles.iyamuremye@aims.ac.rw and charles.iyamuremye@minijust.gov.rw
 Affiliation: MINIJUST / Justice Sector, Rwanda
