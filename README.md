@@ -58,7 +58,7 @@ This workflow ensures a transparent, reproducible, and scalable pipeline from ra
 ## How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GBV-Geospatial-Mapping-Rwanda.git
+   git clone https://github.com/iyallanchaz15@gmail.com/GBV-Geospatial-Mapping-Rwanda.git
    cd GBV-Geospatial-Mapping-Rwanda
 Create a virtual environment (optional but recommended):
 
@@ -89,6 +89,6 @@ Join tables by district name
 Apply symbology to generate maps
 
 Contact
-Project Lead: Charles Iyamuremye
+Project Lead: Mr. Charles Iyamuremye
 Email: charles.iyamuremye@aims.ac.rw and charles.iyamuremye@minijust.gov.rw
-Affiliation: MINIJUST / Justice Sector, Rwanda
+Affiliation: The Ministry of Justice (MINIJUST) / Justice Sector, Rwanda
